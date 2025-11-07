@@ -1,0 +1,5 @@
+{
+  "name": "NoteBlaster",
+  "description": "Upload study materials (PDF, DOCX, or TXT), and the app will automatically extract key points, summarize them into concise study notes using AI, and then transform those notes into an interactive shooting quiz game to make learning fun and effective.",
+  "requestFramePermissions": []
+}
